@@ -9,4 +9,4 @@ Leetcode is an awesome place to practice data suracture and algorithms and also 
 ![ac44de3c-8993-41a6-85e3-909b704094dc_1624567521 8968086](https://user-images.githubusercontent.com/73051094/135770142-fdd5a9c1-bc60-4075-ad7b-89e0d6beb04e.jpeg)
  
 # Are you still anxious about interviews? 
-# Creat a LeetCode account and practice in it **ASAP** to be ready and well-prepared for the upcoming interview.   
+# Creat a LeetCode account and practice in it **ASAP** to be ready and well-prepared for the upcoming interview. 
