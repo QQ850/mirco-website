@@ -1,5 +1,5 @@
  # Now, I'd like to have a short tutorial on C++
- 1. Q: What is C++? <br />
+ 1. Q: What is _C++_? <br />
     A: C++ is a __statically typed__, __compiled__, __general-purpose__, __case-sensitive__, __free-form__ programming language 
     that supports **procedural**, **object-oriented**, and **generic programming**.   
  2. Q: What to know about C++ for a beginner? <br />
